@@ -1,7 +1,5 @@
 ### Hello, I'm Iain 👋
 
-## I am a full-stack software developer looking for work.
-
 <!--
 **UhOhSpiders/UhOhSpiders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
